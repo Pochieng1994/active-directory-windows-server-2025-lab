@@ -1,13 +1,13 @@
 # active-directory-windows-server-2025-lab
-Active Directory Domain Services (AD DS) Lab – Windows Server 2025
+**Active Directory Domain Services (AD DS) Lab – Windows Server 2025**
 
-Project Overview
+**Project Overview**
 
 This project involved building a small Windows domain environment using Windows Server 2025 and Active Directory Domain Services (AD DS).
 
 The objective was to configure a Windows Server as a Domain Controller and connect two Windows 11 Pro client machines to the domain, demonstrating foundational skills in Windows Server administration, domain infrastructure, and centralized authentication.
 
-Lab Environment
+**Lab Environment**
 
 Component
 
