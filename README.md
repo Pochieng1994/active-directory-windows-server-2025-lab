@@ -1,4 +1,4 @@
-# active-directory-windows-server-2025-lab
+# Active-Directory-Windows-Server-2025-Lab
 **Active Directory Domain Services (AD DS) Lab – Windows Server 2025**
 
 **Project Overview**
