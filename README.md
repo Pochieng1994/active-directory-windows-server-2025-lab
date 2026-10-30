@@ -7,33 +7,8 @@ This project involved building a small Windows domain environment using Windows 
 
 The objective was to configure a Windows Server as a Domain Controller and connect two Windows 11 Pro client machines to the domain, demonstrating foundational skills in Windows Server administration, domain infrastructure, and centralized authentication.
 
-**Lab Environment**
 
-Component
-
-Configuration
-
-Server Operating System
-
-Windows Server 2025
-
-Server Role
-
-Domain Controller
-
-Directory Service
-
-Active Directory Domain Services (AD DS)
-
-Client Operating Systems
-
-Windows 11 Pro (2 machines)
-
-Virtualization Platform
-
-[VirtualBox / VMware / Physical Hardware]
-
-Project Objectives
+**Project Objectives**
 
 Install and configure Windows Server 2025.
 
@@ -47,45 +22,48 @@ Join two Windows 11 Pro client machines to the domain.
 
 Verify successful domain membership and connectivity.
 
-Implementation Steps
+**Implementation Steps**
 
-1. Windows Server Installation and Configuration
+**1. Windows Server Installation and Configuration**
 
 Installed Windows Server 2025 and prepared the server to host Active Directory Domain Services.
 
-2. Active Directory Domain Services Installation
+**2. Active Directory Domain Services Installation**
 
 Installed the AD DS server role through Server Manager and promoted the server to a Domain Controller, establishing the Windows domain environment.
 
-3. Windows 11 Client Integration
+**3. Windows 11 Client Integration**
 
 Configured two Windows 11 Pro client machines to join the newly established Active Directory domain.
 
-4. Domain Membership Verification
+**4. Domain Membership Verification**
 
 Verified that both Windows 11 Pro machines successfully joined the domain.
 
-Screenshots
+**Screenshots**
 
 Screenshots documenting the lab configuration and implementation:
 
-Domain Controller Configuration
+**Windows Server Manager Configuration**
+
+
+**Active Directory Domain Services Installed**
+
+
+**DNS Installed**
+
+
+**Active Directory Showing Both Windows Clients in Domain**
+
+
+**Windows 11 Client 1 Joined to Domain**
+
+
+**Windows 11 Client 2 Joined to Domain**
 
 
 
-Active Directory Configuration
-
-
-
-Windows 11 Client 1
-
-
-
-Windows 11 Client 2
-
-
-
-Skills Demonstrated
+**Skills Demonstrated**
 
 Windows Server 2025 Administration
 
@@ -101,10 +79,10 @@ Centralized Authentication Concepts
 
 Windows Domain Infrastructure
 
-Key Takeaways
+**Key Takeaways**
 
 This project provided hands-on experience building and configuring a Windows domain environment. It strengthened my understanding of Active Directory, Domain Controllers, and how Windows client machines integrate into a centralized domain infrastructure.
 
-Technologies Used
+**Technologies Used**
 
 Windows Server 2025 | Active Directory | Windows 11 Pro
